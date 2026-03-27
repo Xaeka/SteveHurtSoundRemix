@@ -14,7 +14,7 @@
   - [死亡音效2 点击试听](https://s19.aconvert.com/convert/p3r68-cdx67/dueza-oknqx.mp3)
   - [死亡音效3 点击试听](https://s33.aconvert.com/convert/p3r68-cdx67/0lwsv-ocxg1.mp3)
 - 🔹 纯音效替换，**无任何模组依赖**，直接放入`resourcepacks`文件夹即可使用
-- 🔹 兼容 Java 版 1.19.x~1.21.x 版本
+- 🔹 兼容 Java 版 1.16.x~1.21.x 版本
 
 ------
 
