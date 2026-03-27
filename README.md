@@ -23,7 +23,7 @@
 This resource pack replaces Steve's **hurt sounds** with an early-version style, and swaps the **death sounds** to 3 random PUBGM(Game for Peace)-style death sounds, covering almost injury scenarios:
 
 - 🔹 Normal hurt/attacked: Replaced with early Steve hurt sounds
-  -  [Click to Play](https://s17.aconvert.com/convert/p3r68-cdx67/htjqf-7n79a.mp3)
+  -  [Hurt Sound  Click to Play](https://s17.aconvert.com/convert/p3r68-cdx67/htjqf-7n79a.mp3)
 - 🔹 Special injuries: Drowning, burning, freezing, sweet berry bush damage, with corresponding scene sounds retained
 - 🔹 Death sounds: 3 random PUBG-style death sounds will play randomly, completely separated from hurt sounds
   - [Death Sound 1 Click to Play](https://s17.aconvert.com/convert/p3r68-cdx67/z0mbv-ok2gq.mp3)
