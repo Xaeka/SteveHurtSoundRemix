@@ -1,0 +1,26 @@
+{
+  "entity.player.death": {
+    "sounds": [
+      {
+        "name": "entity/player/death/death1",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      },
+      {
+        "name": "entity/player/death/death2",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      },
+      {
+        "name": "entity/player/death/death3",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.entity.player.death"
+  }
+}
