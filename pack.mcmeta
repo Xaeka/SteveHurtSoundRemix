@@ -1,9 +1,9 @@
 ﻿{
     "pack":{
         "pack_format": 75, 
-        "supported_formats": [1, 75], 
+        "supported_formats": [1, 100], 
         "min_format": 1, 
-        "max_format": 75,
+        "max_format": 100,
         "description": "§6史蒂夫早期版本「受伤音效」+ 和平精英「死亡音效」 \n§eMadeBy@Xaeka"
     }
 }
