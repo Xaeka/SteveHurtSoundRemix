@@ -1,7 +1,9 @@
-### 介绍
 <p align="center">
 	<img alt="logo" src="https://i.postimg.cc/HWqKyZvk/pack.png">
 </p>
+
+### 介绍
+
 这个资源包将 Minecraft 中史蒂夫的**受击音效**替换为早期版本风格，同时将**死亡音效**替换为 PUBGM(和平精英) 风格的 3 种随机死亡音效，覆盖大部分受伤场景：
 
 - 🔹 普通受击 / 被攻击：替换为早期史蒂夫受击音效 
