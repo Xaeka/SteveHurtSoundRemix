@@ -30,4 +30,4 @@ This resource pack replaces Steve's **hurt sounds** with an early-version style,
   - [Death Sound 2 Click to Play](https://s19.aconvert.com/convert/p3r68-cdx67/dueza-oknqx.mp3)
   - [Death Sound 3 Click to Play](https://s33.aconvert.com/convert/p3r68-cdx67/0lwsv-ocxg1.mp3)
 - 🔹 Pure sound replacement, **no mod dependencies required**, just put into the `resourcepacks` folder to use
-- 🔹 Compatible with Minecraft Java Edition 1.19.x ~ 1.21.x
+- 🔹 Compatible with Minecraft Java Edition 1.16.x ~ 1.21.x
